@@ -1,6 +1,1 @@
-require("latex")([
-  "\\documentclass{article}",
-  "\\begin{document}",
-  "hello world",
-  "\\end{document}"
-]).pipe(process.stdout)
+require("mathmode")("e^{i \\pi} = -1").pipe(process.stdout)
