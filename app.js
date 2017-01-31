@@ -14,3 +14,5 @@ app.use(function (req, res, next) {
 app.get('/', function(req, res, next) {
     return self.mathmode("e^{i \\pi} = -1").pipe(process.stdout)
 });
+
+app.listen(process.env.PORT || 3000)
