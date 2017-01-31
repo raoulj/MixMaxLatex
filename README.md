@@ -1,2 +1,2 @@
 # MixMaxLatex
-A Latex Slash Enhancement
+A Latex Slash Enhancement using the MixMax API
