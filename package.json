@@ -13,6 +13,7 @@
     "jade": "^1.11.0",
     "request": "^2.65.0",
     "underscore": "^1.8.3",
-    "mathmode": "0.0.4"
+    "mathmode": "0.0.4",
+    "latex": "0.0.1"
   }
 }
