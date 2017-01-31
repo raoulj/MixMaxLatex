@@ -1,0 +1,17 @@
+{
+  "name": "mixmax-latex",
+  "version": "0.0.0",
+  "description": "Server to serve compilation of latex in MixMax slash commands.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Raoul Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "request": "^2.65.0",
+    "underscore": "^1.8.3"
+  }
+}
